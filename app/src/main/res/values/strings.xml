@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android_Widgets_AutoCompleteTextView</string>
+    <string name="clean_btn">清除</string>
+</resources>
